@@ -2,7 +2,7 @@
 
 I'm [**Tim Damen**](https://timdamen.io) — a passionate Front-end Developer with over 10+ years of experience, scaling web development, developer experience, Digital Accessibility, and building robust web apps.
 
-- 🏦 **Day Job:** Front-end Platform Chapter Lead at [ABN AMRO](https://www.abnamro.com)
+- 🏦 Front-end Platform Chapter Lead at [ABN AMRO](https://www.abnamro.com)
 - 💚 **Open Source:** Ecosystem Team Member at [Nuxt.js](https://github.com/nuxt)
 - 🎤 **Speaker:** Speaking about Front-end, Digital Accessibility, and more [talks.timdamnen.io](https://talks.timdamen.io)
 - 💡 **Maker:** Building [focusring.io](https://www.focusring.io) — Web Development, focustrap Podcast Host, Digital Accessibility
