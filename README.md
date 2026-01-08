@@ -2,11 +2,10 @@
 
 I'm [**Tim Damen**](https://timdamen.io) — a passionate Front-end Developer with over 10+ years of experience, scaling web development, developer experience, Digital Accessibility, and building robust web apps.
 
-- 🏦 Front-end Lead at [focusring.io](https://focusring.io)
+- 🏦 Front-end Lead [focusring.io](https://focusring.io)
 - 💚 **Open Source:** Ecosystem Team Member at [Nuxt.js](https://github.com/nuxt)
 - 🎤 **Speaker:** Speaking about Front-end, Digital Accessibility, and more [talks.timdamnen.io](https://talks.timdamen.io)
 - 💡 **Maker:** Building [focusring.io](https://www.focusring.io) — Web Development, focustrap Podcast Host, Digital Accessibility
-- 🧙‍♂️ **Gaming:** Maxing my OSRS account during boring meetings (add me: **mitdever**)
 
 Let's connect, collaborate, or just talk about the web, accessibility, and speaking at tech conferences.
 
